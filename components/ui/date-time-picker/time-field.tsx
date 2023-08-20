@@ -1,4 +1,4 @@
-"useclient"
+"use client"
 
 import { DateSegment } from "./date-segment";
 import { useRef } from "react";
